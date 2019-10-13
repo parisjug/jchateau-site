@@ -1,0 +1,9 @@
+/* You can override this file with your own styles */
+
+		#contentBox div {
+		  margin: 30px;
+    }
+		
+     img.poweredBy {
+      width: 50px;
+    }

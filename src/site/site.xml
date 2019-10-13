@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="JChateau"
+         xmlns="http://maven.apache.org/DECORATION/1.7.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/DECORATION/1.7.0 http://maven.apache.org/xsd/decoration-1.7.0.xsd">
+
+    <version position="bottom"/>
+    <publishDate position="bottom"/>
+
+
+    <body>
+
+        <!-- -->
+        <menu name="JChateau" ref="/index.html">
+            <item name="Accommodation" href="accommodation.html" />
+            <item name="Excursions" href="excursions.html"/>
+            <item name="Schedule" href="schedule.html"/>
+            <item name="Venue" href="venue.html"/>
+            <item name="Team" href="the-team.html"/>
+            <item name="what-is-an-unconference" href="what-is-an-unconference.html"/>
+            <item name="Register" href="register.html"/>
+        </menu>
+        <!-- -->
+
+
+    </body>
+
+
+
+</project>
