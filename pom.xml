@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
 
@@ -10,13 +10,13 @@
     <version>1.0-SNAPSHOT</version>
 
     <name>JChateau</name>
-    <url>https://github.com/parisjug/jchateau-site</url>
+    <url>https://github.com/parisjug/jchateau-site.git</url>
 
 
     <scm>
-        <connection>scm:git:https://git@github.com/parisjug/jchateau-site.git</connection>
-        <developerConnection>scm:git:git@github.com:parisjug/jchateau-site.git</developerConnection>
-        <url>git@github.com:parisjug/jchateau-site.git</url>
+        <connection>scm:git:https://github.com/parisjug/jchateau-site.git</connection>
+        <developerConnection>scm:git:https://github.com/parisjug/jchateau-site.git</developerConnection>
+        <url>https://github.com/parisjug/jchateau-site.git</url>
     </scm>
 
     <licenses>
@@ -82,8 +82,14 @@
                         <groupId>com.github.github</groupId>
                         <artifactId>site-maven-plugin</artifactId>
                         <version>0.12</version>
+                        <!-- https://github.com/github/maven-plugins/issues/100 -->
                         <configuration>
                             <message>Creating site for ${project.version}</message>
+                            <!-- userName>parisjug-ci</userName -->
+                            <repositoryOwner>parisjug</repositoryOwner>
+                            <repositoryName>jchateau-site</repositoryName>
+                            <!-- path>site</path>-->
+                            <!--  -->
                         </configuration>
                         <executions>
                             <execution>
