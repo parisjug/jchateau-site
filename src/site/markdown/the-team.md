@@ -6,7 +6,7 @@
 
 ## Grand Chambellan
 
-José Paumard is well famous amont the comunity, for his pons
+José Paumard is well famous amont the community, for his pons
 
 ## Mr president
 
