@@ -88,7 +88,7 @@
                             <repositoryOwner>parisjug</repositoryOwner>
                             <repositoryName>jchateau-site</repositoryName>
                             <!-- path>site</path>-->
-                            <oauth2Token>${env.GH_TOKEN}</oauth2Token>
+                            <password>${env.GH_TOKEN}</password>
                             <!--  -->
                         </configuration>
                         <executions>
