@@ -84,11 +84,13 @@
                         <version>0.12</version>
                         <!-- https://github.com/github/maven-plugins/issues/100 -->
                         <configuration>
+                            <host>api.github.com</host>
                             <message>Creating site for ${project.version}</message>
                             <!-- userName>parisjug-ci</userName -->
                             <repositoryOwner>parisjug</repositoryOwner>
                             <repositoryName>jchateau-site</repositoryName>
                             <!-- path>site</path>-->
+                            <oauth2Token>${env.GH_TOKEN}</oauth2Token>
                             <!--  -->
                         </configuration>
                         <executions>
