@@ -1,6 +1,6 @@
 @charset "UTF-8";
 @import url(font-awesome.min.css);
-/*@import url("https://fonts.googleapis.com/css?family=Scope+One|Trocchi");*/
+@import url("https://fonts.googleapis.com/css?family=Scope+One|Trocchi");
 
 /*
 	Urban by TEMPLATED
@@ -19,12 +19,8 @@
 		vertical-align: baseline;
 	}
 
-	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav {
+	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
-	}
-
-	section	{
-		padding-left: 15px;
 	}
 
 	body {
@@ -46,7 +42,7 @@
 
 	table {
 		border-collapse: collapse;
-		border-spacing: 3;
+		border-spacing: 0;
 	}
 
 	body {
@@ -3466,7 +3462,7 @@
 			}
 
 				#header > a[href="#menu"]:before {
-					/*content: "&#x2630;";*/
+					content: "";
 					-moz-osx-font-smoothing: grayscale;
 					-webkit-font-smoothing: antialiased;
 					font-family: FontAwesome;
