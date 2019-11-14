@@ -1,12 +1,10 @@
 # &nbsp;
 
-## The hosts
-
- This is the Core team
+# The disorganisers
 
 ## Grand Chambellan
 
-José Paumard is well famous amont the comunity, for his pons
+José Paumard is well famous among the community, for his pons
 
 ## Mr president
 
@@ -14,9 +12,9 @@ Charles Sabourdin (Former ParisJug Leader)
 
 ## Just Jean
 
-Jean is the creator / maintener of QuickPerf.
+Jean is the creator / maintainer of [QuickPerf](https://github.com/quick-perf/quickperf).
 
 ## French Khan Khan Khan
 
-Khan is the creator / maintener of Hadoop Unit
+Khan is the creator / maintainer of [Hadoop Unit](https://github.com/jetoile/hadoop-unit)
 

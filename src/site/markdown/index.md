@@ -2,8 +2,8 @@
 
 ## JChateau
 
-JChateau is an **Unconference** happening in France in the touristique area known as "Châteaux de la Loire".
+JChateau is an **Unconference** happening in France in the touristic area known as "Châteaux de la Loire".
 
 The purpose of this unconference is to bring together people interested in Crafting Java Technologies.
 
-Our venue will be based in a hotel in order to have working morning on self appointed subject and, for those interested in such excursion, visit of one of many historical jewels of the area (Chambord, Da Vinci's Workshop, ... )
+Our unconference will take place in a hotel in order to have morning sessions on self appointed subjects and free time in the afternoon to visit many historical jewels in the area (Chambord Castle, Da Vinci's Workshop, ... ).

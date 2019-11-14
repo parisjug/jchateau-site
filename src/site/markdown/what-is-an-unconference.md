@@ -1,7 +1,7 @@
 # &nbsp;
 
 
-## what is an unconference
+## What is an unconference
 
 The open spaces unconference is the coolest structure for exchanging ideas. The Open Space format has been used more than 60,000 times in at least 124 countries, involving millions of attendees over the past 20 years, so it obviously “just works”. As JCrete® uses it, it is important to understand what type of event an open spaces unconference is.
 
