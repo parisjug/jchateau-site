@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <name>JChateau</name>
-    <url>https://github.com/parisjug/jchateau-site.git</url>
+    <url>https://www.jchateau.org</url>
 
 
     <scm>
@@ -27,6 +27,8 @@
     </licenses>
 
     <properties>
+        <github.global.server>github</github.global.server>
+
         <java.version>1.8</java.version>
 
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -55,12 +57,6 @@
                     <outputEncoding>UTF-8</outputEncoding>
                 </configuration>
             </plugin>
-
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-project-info-reports-plugin</artifactId>
-                <version>3.0.0</version>
-            </plugin>
         </plugins>
     </build>
 
@@ -82,13 +78,11 @@
                         <version>0.12</version>
                         <!-- https://github.com/github/maven-plugins/issues/100 -->
                         <configuration>
-                            <host>api.github.com</host>
                             <message>Creating site for ${project.version}</message>
                             <!-- userName>parisjug-ci</userName -->
                             <repositoryOwner>parisjug</repositoryOwner>
                             <repositoryName>jchateau-site</repositoryName>
                             <!-- path>site</path>-->
-                            <password>${env.GH_TOKEN}</password>
                             <!--  -->
                         </configuration>
                         <executions>
