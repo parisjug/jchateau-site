@@ -97,7 +97,7 @@
         Copyright &#169;#copyright()All rights reserved.
        </span> | 
        <span>#publishDate( "bottom" $decoration.publishDate $decoration.version )</span>
-        <img src="http://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.eu.png" style="width: 40px;">
+        <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc.eu.png" style="width: 40px;">
       </div>
        <div class="container">
       <span class="">inspired from <a href="http://templated.co">templated.co</a><span><br />
