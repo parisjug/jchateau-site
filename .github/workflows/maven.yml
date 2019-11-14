@@ -15,4 +15,8 @@ jobs:
         java-version: 1.8
     - name: Build with Maven
       run: mvn -B site -Pdeploy --file pom.xml
+    - name: ls
+      run: ls target/site
+    - name: check git
+      run: cd target/site && git init
       
