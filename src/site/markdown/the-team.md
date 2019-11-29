@@ -2,6 +2,8 @@
 
 # The disorganisers
 
+José, Charles, Jean and Khan will be the trouble makers in chief during the unconference. Remember: whatever happens is this only thing that could have.   
+
 ## Grand Chambellan
 
 José Paumard is well famous among the community, for his pons
