@@ -8,3 +8,7 @@
      img.poweredBy {
       width: 50px;
     }
+
+    a:link {
+        color: #258cd1;
+    }
