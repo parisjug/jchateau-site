@@ -12,3 +12,7 @@
     a:link {
         color: #258cd1;
     }
+
+    a:visited {
+        color: skyblue;
+    }
