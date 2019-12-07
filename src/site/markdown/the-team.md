@@ -1,6 +1,6 @@
 # &nbsp;
 
-# The disorganisers
+## The disorganisers
 
 *José, Charles, and Jean will be the trouble makers in chief during the unconference. Remember: whatever happens is this only thing that could have. Is it a promise or is it a threat?*   
 
