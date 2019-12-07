@@ -8,10 +8,14 @@ You can register to JChateau on this page! Remember that JChateau is organized b
 
 Starting at 99€ for the 3 days of unconference, and 550€ with full accommodations, lunches and dinners, we hope that you will find a price that will be ok for you!
 
+<div style="padding-left:0; margin:0">
 We have created different tickets to better fit your needs, here they are: 
-* Do you need accommodation? If no, then you should choose a ticket without accommodation. There are several other hotels and RbnBs in the area for you to choose from in case you still need accommodation.
-* You don't feel that sharing lunch or dinner with the attendees? No problem, you can also do that.
-* Feeling like coming with your loved one, your friend or your children to visit this wonderful region? Please do it! We have accommodations only tickets for people not interested in tech.
+<ul>
+<li>Do you need accommodation? If no, then you should choose a ticket without accommodation. There are several other hotels and RbnBs in the area for you to choose from in case you still need accommodation.</li>
+<li>You don't feel that sharing lunch or dinner with the attendees? No problem, you can also do that.</li>
+<li>Feeling like coming with your loved one, your friend or your children to visit this wonderful region? Please do it! We have accommodations only tickets for people not interested in tech.</li>
+</ul>
+</div>
 
 And if you feel like supporting our non-profit association, we also have a benevolent price. Just so you know: the benefits we made with that price is fully reinvested in the non-profit activities of the association. 
 
