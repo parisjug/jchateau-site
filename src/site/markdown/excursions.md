@@ -1,5 +1,4 @@
-# &nbsp;
 
-## Excursions
+# Excursions
 
 Work in progress

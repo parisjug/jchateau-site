@@ -1,10 +1,8 @@
-# &nbsp;
-
-## Registration
+# Registration
 
 You can register to JChateau on this page! Remember that JChateau is organized by a non-profit association. No benefit is made on those prices. If you wish to support us, you can still choose a "benevolent price". The difference between this price and the regular one will help us help others. 
 
-### It's about paying!
+## It's about paying!
 
 Starting at 99€ for the 3 days of unconference, and 550€ with full accommodations, lunches and dinners, we hope that you will find a price that will be ok for you!
 
@@ -19,7 +17,7 @@ We have created different tickets to better fit your needs, here they are:
 
 And if you feel like supporting our non-profit association, we also have a benevolent price. Just so you know: the benefits we made with that price is fully reinvested in the non-profit activities of the association. 
 
-### Prices at a glance
+## Prices at a glance
 
 Check in the unconference start Wed March 11th at 5pm. Normal check out is Sun March 15th 10pm. Early check out is Sat March 14th. The early checkout price includes Saturday sessions and lunch. 
 
@@ -35,6 +33,6 @@ All prices include VAT. We can provide a regular invoice with VAT at a 20% rate.
 | Early checkout Unconference with twin room accommodation, lunches and dinners     | 510€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |      |
 | No unconference with twin room accommodation, lunches and dinners                 | 330€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |      |
 
-### Registration form
+## Registration form
 
 Access the registration form [here](https://www.helloasso.com/associations/bjpc/evenements/jchateau/widget).

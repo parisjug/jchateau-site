@@ -275,11 +275,7 @@
         #else
           #set ( $height = "" )
         #end
-        #if( $menu.title )
-          #set ( $title = ' title="' + $menu.title + '"' )
-        #else
-          #set ( $title = "" )
-        #end
+        
 ##
         #set ( $img = '<img class="imageLink"' + $src + $alt + $border + $width + $height + $title + "/>" )
 ##

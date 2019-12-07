@@ -1,6 +1,4 @@
-# &nbsp;
-
-## JChateau
+# JChateau
 
 JChateau® is an **Unconference** happening in France in the touristic area known as "Châteaux de la Loire".
 
