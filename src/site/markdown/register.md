@@ -23,13 +23,13 @@ All prices include VAT. We can provide a regular invoice with VAT at a 20% rate.
 
 |                   | Regular Price           | Benevolent Price  |
 | ----------------- | :---------------------: | :---------------: |
-| Unconference only, no accomodation, lunch or dinner                | 99€   | 140€ |
-| Unconference with single room accommodation and lunches, no dinner | 220€  | 320€ |
-| Unconference with single room accommodation, lunches and dinners   | 770€  | 920€ |
-| Unconference with twin room accommodation, lunches and dinners     | 550€  |      |
+| Unconference only, no accomodation, lunch or dinner                               | 99€   | 140€ |
+| Unconference with single room accommodation and lunches, no dinner                | 220€  | 320€ |
+| Unconference with single room accommodation, lunches and dinners                  | 770€  | 920€ |
+| Unconference with twin room accommodation, lunches and dinners                    | 550€  |      |
 | Early checkout Unconference with single room accommodation, lunches and dinners   | 640€  | 810€ |
 | Early checkout Unconference with twin room accommodation, lunches and dinners     | 510€  |      |
-| No unconference with twin room accommodation, lunches and dinners  | 330€  |      |
+| No unconference with twin room accommodation, lunches and dinners                 | 330€  |      |
 
 ### Registration form
 
