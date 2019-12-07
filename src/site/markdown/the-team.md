@@ -10,10 +10,9 @@ José Paumard started working with the Java platform when it was released about 
 
 #### Mr president ####
 
-Charles Sabourdin is Architect Freelancer. Mostly focus on Java, Linux and Kubernetes with a drop of Security. Charles is all about sharing and giving back to the community. Firstly, involve in [Paris Linux User Group](https://parinux.org), he joined [Paris Java User Group](https://www.parisjug.org) at its very beginning and took care of the recording, editing and delivering of the video and, believe me, that was not that simple 10 years ago. He pursue his engagement into Devoxx France Steering Committee and took care of Devoxx France’s keynotes for several years. He was ParisJUG’s Leader for a very long time including for the 10-year anniversary. He is still involved in [Paris Java User Group](https://www.parisjug.org) but also into this new adventure: (Jchateau.org)
+Charles Sabourdin is Architect Freelancer. Mostly focus on Java, Linux and Kubernetes with a drop of Security. Charles is all about community. Firstly, involve in [Paris Linux User Group](https://parinux.org), he joined [Paris Java User Group](https://www.parisjug.org) at its very beginning and took care of the recording, editing and delivering of the video and, believe me, that was not that simple 10 years ago. He has been ParisJUG’s Leader for a some time. He often speak at technical conferences and meetup.
 
-
-####Just Jean####
+#### Just Jean ####
 
 Jean Bisutti is a Java consultant working at Zenika. He previously helped on [SoCraTes France](https://socrates-fr.github.io/). Now he is glad to help in disorganising JChateau. 
 Jean is also the creator of [QuickPerf](https://github.com/quick-perf/quickperf).
