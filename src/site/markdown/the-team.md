@@ -2,7 +2,7 @@
 
 # The disorganisers
 
-José, Charles, Jean and Khan will be the trouble makers in chief during the unconference. Remember: whatever happens is this only thing that could have.   
+José, Charles, Jean will be the trouble makers in chief during the unconference. Remember: whatever happens is this only thing that could have.   
 
 ## Grand Chambellan
 
