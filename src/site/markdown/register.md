@@ -30,3 +30,5 @@ All prices include VAT. We can provide a regular invoice with VAT at a 20% rate.
 | Early checkout Unconference with single room accommodation, lunches and dinners   | 640€  | 810€ |
 | Early checkout Unconference with twin room accommodation, lunches and dinners     | 510€  |      |
 | No unconference with twin room accommodation, lunches and dinners                 | 330€  |      |
+
+[Register!](https://www.helloasso.com/associations/bjpc/evenements/jchateau/widget)
