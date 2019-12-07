@@ -12,9 +12,9 @@ José Paumard is well famous among the community, for his pons
 
 Charles Sabourdin (Former ParisJug Leader) 
 
-## Just Jean
-
-Jean is the creator / maintainer of [QuickPerf](https://github.com/quick-perf/quickperf).
+## Jean Bisutti
+I am a Java consultant working at Zenika. I previously helped on [SoCraTes France](https://socrates-fr.github.io/). Now I am glad to help in disorganising JChateau. 
+I created [QuickPerf](https://github.com/quick-perf/quickperf).
 
 ## French Khan Khan Khan
 
