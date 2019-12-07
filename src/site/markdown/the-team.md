@@ -12,7 +12,7 @@ José Paumard started working with the Java platform when it was released about 
 
 Charles Sabourdin (Former ParisJug Leader) 
 
-## Just Jean
-
-Jean is the creator / maintainer of [QuickPerf](https://github.com/quick-perf/quickperf).
+## Jean Bisutti
+Jean is a Java consultant working at Zenika. He previously helped on [SoCraTes France](https://socrates-fr.github.io/). Now he is glad to help in disorganising JChateau. 
+Jean is also the creator of [QuickPerf](https://github.com/quick-perf/quickperf).
 
