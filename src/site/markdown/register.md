@@ -27,13 +27,13 @@ All prices include VAT. We can provide a regular invoice with VAT at a 20% rate.
 
 |                   | Regular Price           | Benevolent Price  |
 | ----------------- | :---------------------: | :---------------: |
-| Unconference only, no accomodation, lunch or dinner                               | 99€   | 140€ |
-| Unconference with single room accommodation and lunches, no dinner                | 220€  | 320€ |
-| **Unconference with single room accommodation, lunches and dinners**              |**770€**|**920€**|
-| **Unconference with twin room accommodation, lunches and dinners**                |**550€**|      |
-| Early checkout Unconference with single room accommodation, lunches and dinners   | 640€  | 810€ |
-| Early checkout Unconference with twin room accommodation, lunches and dinners     | 510€  |      |
-| No unconference with twin room accommodation, lunches and dinners                 | 330€  |      |
+| Unconference only, no accomodation, lunch or dinner                               | 99€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   | 140€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+| Unconference with single room accommodation and lunches, no dinner                | 220€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | 320€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| **Unconference with single room accommodation, lunches and dinners**              |**770€**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|**920€**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
+| **Unconference with twin room accommodation, lunches and dinners**                |**550€**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|      |
+| Early checkout Unconference with single room accommodation, lunches and dinners   | 640€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | 810€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| Early checkout Unconference with twin room accommodation, lunches and dinners     | 510€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |      |
+| No unconference with twin room accommodation, lunches and dinners                 | 330€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |      |
 
 ### Registration form
 
