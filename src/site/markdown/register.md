@@ -25,7 +25,7 @@ Check in the unconference start Wed March 11th at 5pm. Normal check out is Sun M
 
 All prices include VAT. We can provide a regular invoice with VAT at a 20% rate. 
 
-|                   | Regular Price           | Benevolent Price  |
+|                   | Regular Price           | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Benevolent Price  |
 | ----------------- | :---------------------: | :---------------: |
 | Unconference only, no accomodation, lunch or dinner                               | 99€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   | 140€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 | Unconference with single room accommodation and lunches, no dinner                | 220€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | 320€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
