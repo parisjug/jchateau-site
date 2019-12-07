@@ -33,4 +33,4 @@ All prices include VAT. We can provide a regular invoice with VAT at a 20% rate.
 
 ### Registration form
 
-Access the registration form here. 
+Access the registration form [here](https://www.helloasso.com/associations/bjpc/evenements/jchateau/widget).
