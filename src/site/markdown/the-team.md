@@ -16,7 +16,3 @@ Charles Sabourdin (Former ParisJug Leader)
 I am a Java consultant working at Zenika. I previously helped on [SoCraTes France](https://socrates-fr.github.io/). Now I am glad to help in disorganising JChateau. 
 I created [QuickPerf](https://github.com/quick-perf/quickperf).
 
-## French Khan Khan Khan
-
-Khan is the creator / maintainer of [Hadoop Unit](https://github.com/jetoile/hadoop-unit)
-
