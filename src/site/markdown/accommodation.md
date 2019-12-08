@@ -6,6 +6,10 @@ All the activities of the unconference will be held in the hotel meeting rooms.
 
 ## Travel
 
+### By car
+
+You are probably on your own on this one! The venue is about 2 hours by car from Paris, most on tooled motorways. 
+
 ### By train
 * the closest station is Amboise, about 1h45 from the Paris Austerlitz station. It is about 10km from the hotel;
 * the Tours station is about 1 hour by car, connected to Paris Montparnasse station.
