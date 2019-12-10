@@ -1,22 +1,26 @@
 # What is JChateau?
 
+From March 11th to March 15th 2020, JChateau will take place in Amboise, [Villa Bellagio](https://vbamboise.popinns.com/), in the middle of the Château of the Loire Valley. 
+
+[Accomodation](accommodation.html) | [Schedule](schedule.html) | [Registration infos](registrationinfo.html) | [Registration](https://www.helloasso.com/associations/bjpc/evenements/jchateau/widget) | [Team](the-team.html)
+
 ## First answer: an unconference
 
 JChateau® is an **Unconference** organized in France in the iconic area of the Châteaux of the Loire Valley, designated as a World Heritage Site by UNSECO in 2000. The people behind this event are the same that have been organizing the Paris Java User Group meet-ups for about 10 years. 
 
 ## Second answer: a non-profit event
 
-Everything has a price, and organizing such an event has one too. So unfortunately, attending JCHateau cannot be free. Despite that, it is still a non-profit event, organized by the same non-profit association that has been organizing the Paris Java User Group meet-ups for the past 5 years. 
+Everything has a price, and organizing such an event has one too. So unfortunately, attending JChateau cannot be free. Despite that, it is still a non-profit event, organized by the same non-profit association that has been organizing the Paris Java User Group meet-ups for the past 5 years. 
 
 ## Third answer: an event for passionate people
 
-JChateau® is disorganized by a group of people that have the same passion for technology, especially Java technology, and for sharing knowledge. Everyone interested in the Java technologies, the crafting of software, and all the related technologies is very welcome to attend, join the party  
+JChateau® is disorganized by a group of people that have the same passion for technology, especially Java technology, and for sharing knowledge. Everyone interested in the Java technologies, the crafting of software, and all the related technologies is very welcome to attend and join the party. 
 
 ## Fourth answer: a fun event!
 
-Sharing three to four days in a venue where everybody can discuss, have lunch and dinner, share a coffee, go for a walk in the nearby forrest, leave the venue for an early morning run, talk about Java, how good it is, how greater it could be, is also abut having fun together! Everything is there for you to spend a great time in a friendly ambiance, and make your stay unforgettable.
+Sharing three to four days in a venue where everybody can discuss, have lunch and dinner, share a coffee, go for a walk in the nearby forrest, leave the venue for an early morning run, talk about Java, how good it is, how greater it could be, is also about having fun together! Everything is there for you to spend a great time in a friendly ambiance, and make your stay unforgettable.
 
-JChateau® is also about discovering the wonderful region it is organized in. We are within walking distance of Leonardo da Vinci's workshop and the Château Royal of Amboise
+JChateau® is also about discovering the wonderful region it is organized in. We are within walking distance of Leonardo da Vinci's workshop and the Château Royal of Amboise. 
 
 #### Château de Chambord
 
