@@ -22,17 +22,17 @@ JChateau® is also about discovering the wonderful region it is organized in. We
 
 Built in 1519 by François 1er
 
-![Château de Chambord](../resources/images/chambord-red.jpg "Château de Chambord")
+![Château de Chambord](images/chambord-red.jpg "Château de Chambord")
 
 #### Château d'Amboise
 
-![Château d'Amboise](../resources/images/amboise-red.jpg "Château d'Amboise")
+![Château d'Amboise](images/amboise-red.jpg "Château d'Amboise")
 
 #### Château du Clos-Lucé
 
 Last workshop of Leonardo da Vinci, where he died in 1519.
 
-![Clos Lucé](../resources/images/clos-luce-red.jpg "Clos Lucé")
+![Clos Lucé](images/clos-luce-red.jpg "Clos Lucé")
 
  
 ## JChateau is not the first one
