@@ -31,7 +31,7 @@ All prices include VAT. We can provide a regular invoice with VAT at a 20% rate.
 | **Unconference with twin room accommodation, lunches and dinners**                |**550€**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|      |
 | Early checkout Unconference with single room accommodation, lunches and dinners   | 640€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | 810€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | Early checkout Unconference with twin room accommodation, lunches and dinners     | 510€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |      |
-| No unconference with twin room accommodation, lunches and dinners                 | 330€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |      |
+| No unconference with twin room accommodation, lunches and dinners                 | 450€&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  |      |
 
 ## Registration form
 
