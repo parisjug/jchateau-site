@@ -1,6 +1,6 @@
 # What is JChateau?
 
-From March 11th to March 15th 2020, JChateau will take place in Amboise, [Villa Bellagio](https://vbamboise.popinns.com/), in the middle of the Château of the Loire Valley. 
+From March 11th to March 15th 2020, JChateau will take place in Amboise, [Villa Bellagio](https://vbamboise.popinns.com/), in the middle of the Château of the Loire Valley. Check the registrations available, some of them include staying at the Villa Bellagio at discount prices. 
 
 [Accomodation](accommodation.html) | [Schedule](schedule.html) | [Registration infos](registrationinfo.html) | [Registration](https://www.helloasso.com/associations/bjpc/evenements/jchateau/widget) | [Team](the-team.html)
 
