@@ -18,9 +18,21 @@ Sharing three to four days in a venue where everybody can discuss, have lunch an
 
 JChateau® is also about discovering the wonderful region it is organized in. We are within walking distance of Leonardo da Vinci's workshop and the Château Royal of Amboise
 
-![Château de Chambord](images/chambord.png "Château de Chambord")
-![Château d'Amboise](images/amboise.png "Château d'Amboise")
-![Clos Lucé](images/clos-luce.png "Clos Lucé")
+#### Château de Chambord
+
+Built in 1519 by François 1er
+
+![Château de Chambord](../resources/images/chambord-red.jpg "Château de Chambord")
+
+#### Château d'Amboise
+
+![Château d'Amboise](../resources/images/amboise-red.jpg "Château d'Amboise")
+
+#### Château du Clos-Lucé
+
+Last workshop of Leonardo da Vinci, where he died in 1519.
+
+![Clos Lucé](../resources/images/clos-luce-red.jpg "Clos Lucé")
 
  
 ## JChateau is not the first one
