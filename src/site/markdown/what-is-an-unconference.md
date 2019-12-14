@@ -1,4 +1,10 @@
-# What is an Open Space Conference
+# What is an Open Space Conference?
+
+[Accomodation](accommodation.html) | [Travel](travel.html) | [Schedule](schedule.html) | [What is an unconference?](what-is-an-unconference.html)
+ 
+[Registration infos](registrationinfo.html) | [Registration](https://www.helloasso.com/associations/bjpc/evenements/jchateau/widget) | [Team](the-team.html)
+
+Need any assistance? Please drop us an email at [contact@jchateau.org](mailto:team@jchateau.org).
 
 The concept was invented by Harrison Owen, even if he denies being its inventor. As he states it: "Open Space Technology  has been a collaborative project involving perhaps 1000 people on four continents over a period of eight years". If you want to learn more on Open Space Technologies from Harrison Owen himself, you can read his [excellent paper on the subject](https://elementaleducation.com/wp-content/uploads/temp/OpenSpaceTechnology--UsersGuide.pdf). 
 

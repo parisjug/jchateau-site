@@ -1,5 +1,12 @@
 # Schedule
 
+[Accomodation](accommodation.html) | [Travel](travel.html) | [Schedule](schedule.html) | [What is an unconference?](what-is-an-unconference.html)
+ 
+[Registration infos](registrationinfo.html) | [Registration](https://www.helloasso.com/associations/bjpc/evenements/jchateau/widget) | [Team](the-team.html)
+
+Need any assistance? Please drop us an email at [contact@jchateau.org](mailto:team@jchateau.org).
+
+
 ## Agenda and Speakers
 
 What is the agenda? Precisely, there is no agenda in an unconference! Who are the speakers? Well, if you feel like it, you will be a speaker!

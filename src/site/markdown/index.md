@@ -1,12 +1,17 @@
 # What is JChateau?
 
-From March 11th to March 15th 2020, JChateau will take place in Amboise, [Villa Bellagio](https://vbamboise.popinns.com/), in the middle of the Château of the Loire Valley. Check the registrations available, some of them include staying at the Villa Bellagio at discount prices. 
+From March 11th to March 15th 2020, the unconference JChateau will take place in Amboise, [Villa Bellagio](https://vbamboise.popinns.com/), in the middle of the Château of the Loire Valley. Check the registrations available, some of them include staying at the Villa Bellagio at discount prices. 
 
-[Accomodation](accommodation.html) | [Schedule](schedule.html) | [Registration infos](registrationinfo.html) | [Registration](https://www.helloasso.com/associations/bjpc/evenements/jchateau/widget) | [Team](the-team.html)
+[Accomodation](accommodation.html) | [Travel](travel.html) | [Schedule](schedule.html) | [What is an unconference?](what-is-an-unconference.html)
+ 
+[Registration infos](registrationinfo.html) | [Registration](https://www.helloasso.com/associations/bjpc/evenements/jchateau/widget) | [Team](the-team.html)
+
+Need any assistance? Please drop us an email at [contact@jchateau.org](mailto:team@jchateau.org).
+
 
 ## First answer: an unconference
 
-JChateau® is an **Unconference** organized in France in the iconic area of the Châteaux of the Loire Valley, designated as a World Heritage Site by UNSECO in 2000. The people behind this event are the same that have been organizing the Paris Java User Group meet-ups for about 10 years. 
+JChateau® is an **Unconference** organized from March 11th to March 15th 2020 in France in the iconic area of the Châteaux of the Loire Valley, designated as a World Heritage Site by UNSECO in 2000. The people behind this event are the same that have been organizing the Paris Java User Group meet-ups for about 10 years. 
 
 ## Second answer: a non-profit event
 

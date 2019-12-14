@@ -2,6 +2,13 @@
 
 You can register to JChateau on this page! Remember that JChateau is organized by a non-profit association. No benefit is made on those prices. If you wish to support us, you can still choose a "benevolent price". The difference between this price and the regular one will help us help others. 
 
+[Accomodation](accommodation.html) | [Travel](travel.html) | [Schedule](schedule.html) | [What is an unconference?](what-is-an-unconference.html)
+ 
+[Registration infos](registrationinfo.html) | [Registration](https://www.helloasso.com/associations/bjpc/evenements/jchateau/widget) | [Team](the-team.html)
+
+Need any assistance? Please drop us an email at [contact@jchateau.org](mailto:team@jchateau.org).
+
+
 ## It's about paying!
 
 Starting at 99€ for the 3 days of unconference, and 550€ with full accommodations, lunches and dinners, we hope that you will find a price that will be ok for you!
