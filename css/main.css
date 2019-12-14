@@ -3578,7 +3578,7 @@
 		-ms-transition: -ms-transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		-webkit-overflow-scrolling: touch;
-		background: rgba(128, 128, 128, 0.925);
+		background: #67b2e4;
 		box-shadow: none;
 		color: #fff;
 		height: 100%;
@@ -3595,6 +3595,7 @@
 
 		#menu > ul {
 			margin: 0 0 1em 0;
+			color: white;
 		}
 
 			#menu > ul.links {
@@ -3618,6 +3619,14 @@
 					#menu > ul.links > li > .button {
 						display: block;
 						margin: 0.5em 0 0 0;
+					}
+
+					#menu a:link {
+						color:white
+					}
+
+					#menu a:visited {
+						color:white
 					}
 
 					#menu > ul.links > li:hover {
@@ -3726,16 +3735,16 @@
 	}
 
 		#banner .inner {
-			/* 
+			/*
 		  -moz-transform: scale(1.0);
 			-webkit-transform: scale(1.0);
 			-ms-transform: scale(1.0);
 			transform: scale(1.0);
-			
+
 			-moz-transition: opacity 1s ease, -moz-transform 1s ease;
 			-webkit-transition: opacity 1s ease, -webkit-transform 1s ease;
 			-ms-transition: opacity 1s ease, -ms-transform 1s ease;
-			transition: opacity 1s ease, transform 1s ease; 
+			transition: opacity 1s ease, transform 1s ease;
 			*/
 			opacity: 1;
 			position: relative;
@@ -3931,8 +3940,7 @@
 			}
 
 		}
-		
 
-		
-		
-	
+
+
+
