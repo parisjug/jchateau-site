@@ -2,7 +2,7 @@
 
 [Accomodation](accommodation.html) | [Travel](travel.html) | [Schedule](schedule.html) | [What is an unconference?](what-is-an-unconference.html)
 
-[Registration infos](registrationinfo.html) | [Registration] | [Team](the-team.html)
+[Registration infos](registrationinfo.html) | [Registration](https://www.eventbrite.com/e/jchateau-and-jalba-the-unofficial-unorganised-jauldalliance-tickets-191637963307) | [Team](the-team.html)
 
 Need any assistance? Please drop us an email at [contact@jchateau.org](mailto:team@jchateau.org).
 
@@ -19,11 +19,11 @@ This should be define with our friends from [JAlba](https://jalba.scot/))
 
 Current plan are :
 
-### Wednesday 28th
+### Wednesday 24th
 
 * **GMT+1(Scotland): 16:00 – 17:00**, _GMT+2 (France) : 17:00 – 18:00_ **:<br/> Meet the tech, and the people! Float some ideas!**
 
-### Thursday 29th
+### Thursday 25th
 
 * **GMT+1(Scotland): 14:00 – 14:25**, _GMT+2 (France) : 15:00 – 15:25_ **:<br/> Marketplace**
 
@@ -33,7 +33,7 @@ Current plan are :
 
 * **GMT+1(Scotland): 16:30+**, _GMT+2 (France) : 17:30+_ **:<br/> Washup and whisky (or wine)**
 
-### Friday 30th
+### Friday 26th
 
 * **GMT+1(Scotland): 14:00 – 14:25**, _GMT+2 (France) : 15:00 – 15:25_ **:<br/> Marketplace**
 
@@ -43,6 +43,6 @@ Current plan are :
 
 * **GMT+1 (Scotland): 16:30+**, _GMT+2 (France) : 17:30+_ **:<br/> Washup and whisky (or wine)**
 
-### Saturday 1fr
+### Saturday 27th
 
 * well everything is possible
