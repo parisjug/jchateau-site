@@ -10,16 +10,11 @@ mvn clean site site:run
 Update  `settings.xml`:
 
 ```xml
-<settings>
-  <servers>
-
-  <server>
-      <id>github</id>
-      <username>xxx</username>
-      <password>xxx</password>
-  </server>
-  </servers>
-</settings>
+<server>
+    <id>github</id>
+    <password>OAUTH2TOKEN</password>
+    <!-- it's password, not oauth2Token -->
+</server>
 ```
 
 Active profil `deploy` by running :
