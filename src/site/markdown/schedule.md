@@ -1,7 +1,7 @@
 # Schedule
 
 [Accomodation](accommodation.html) | [Travel](travel.html) | [Schedule](schedule.html) | [What is an unconference?](what-is-an-unconference.html)
- 
+
 [Registration infos](registrationinfo.html) | [Registration] | [Team](the-team.html)
 
 Need any assistance? Please drop us an email at [contact@jchateau.org](mailto:team@jchateau.org).
@@ -21,27 +21,36 @@ Current plan are :
 
 ### Wednesday 28th
 
-* 1600–1700 : Meet the tech, and the people! Float some ideas!
+* **GMT+1(Scotland): 16:00 – 17:00**, _GMT+2 (France) : 17:00 – 18:00_
+* Meet the tech, and the people! Float some ideas!
 
 ### Thursday 29th
 
-* 1400-1430 Marketplace
+* **GMT+1(Scotland): 14:00 – 14:25**, _GMT+2 (France) : 15:00 – 15:25_
+* Marketplace
 
-* 1435-1525 Session 1
+* **GMT+1(Scotland): 14:35 – 15:25**, _GMT+2 (France) : 15:35 – 16:25_
+* Session 1
 
-* 1535-1625 Session 2
+* **GMT+1(Scotland): 15:35 – 16:25**, _GMT+2 (France) : 16:35 – 17:25_
+* Session 2
 
-* 1625-1700 Washup and whisky (or wine)
+* **GMT+1(Scotland): 16:30+**, _GMT+2 (France) : 17:30+_
+* Washup and whisky (or wine)
 
 ### Friday 30th
 
-* 1400-1430 Marketplace
+* **GMT+1(Scotland): 14:00 – 14:25**, _GMT+2 (France) : 15:00 – 15:25_
+* Marketplace
 
-* 1435-1525 Session 1
+* **GMT+1(Scotland): 14:35 – 15:25**, _GMT+2 (France) : 15:35 – 16:25_
+* Session 3
 
-* 1535-1625 Session 2
+* **GMT+1(Scotland): 16:30 – 16:25**, _GMT+2 (France) : 16:35 – 17:25_
+* Session 4
 
-* 1625-1700 Washup and whisky (or wine)
+* **GMT+1 (Scotland): 16:30+**, _GMT+2 (France) : 17:30+_
+* Washup and whisky (or wine)
 
 ### Saturday 1fr
 
