@@ -21,36 +21,27 @@ Current plan are :
 
 ### Wednesday 28th
 
-* **GMT+1(Scotland): 16:00 – 17:00**, _GMT+2 (France) : 17:00 – 18:00_
-* Meet the tech, and the people! Float some ideas!
+* **GMT+1(Scotland): 16:00 – 17:00**, _GMT+2 (France) : 17:00 – 18:00_ **:<br/> Meet the tech, and the people! Float some ideas!**
 
 ### Thursday 29th
 
-* **GMT+1(Scotland): 14:00 – 14:25**, _GMT+2 (France) : 15:00 – 15:25_
-* Marketplace
+* **GMT+1(Scotland): 14:00 – 14:25**, _GMT+2 (France) : 15:00 – 15:25_ **:<br/> Marketplace**
 
-* **GMT+1(Scotland): 14:35 – 15:25**, _GMT+2 (France) : 15:35 – 16:25_
-* Session 1
+* **GMT+1(Scotland): 14:35 – 15:25**, _GMT+2 (France) : 15:35 – 16:25_ **:<br/> Session 1**
 
-* **GMT+1(Scotland): 15:35 – 16:25**, _GMT+2 (France) : 16:35 – 17:25_
-* Session 2
+* **GMT+1(Scotland): 15:35 – 16:25**, _GMT+2 (France) : 16:35 – 17:25_ **:<br/> Session 2**
 
-* **GMT+1(Scotland): 16:30+**, _GMT+2 (France) : 17:30+_
-* Washup and whisky (or wine)
+* **GMT+1(Scotland): 16:30+**, _GMT+2 (France) : 17:30+_ **:<br/> Washup and whisky (or wine)**
 
 ### Friday 30th
 
-* **GMT+1(Scotland): 14:00 – 14:25**, _GMT+2 (France) : 15:00 – 15:25_
-* Marketplace
+* **GMT+1(Scotland): 14:00 – 14:25**, _GMT+2 (France) : 15:00 – 15:25_ **:<br/> Marketplace**
 
-* **GMT+1(Scotland): 14:35 – 15:25**, _GMT+2 (France) : 15:35 – 16:25_
-* Session 3
+* **GMT+1(Scotland): 14:35 – 15:25**, _GMT+2 (France) : 15:35 – 16:25_ **:<br/> Session 3**
 
-* **GMT+1(Scotland): 16:30 – 16:25**, _GMT+2 (France) : 16:35 – 17:25_
-* Session 4
+* **GMT+1(Scotland): 16:30 – 16:25**, _GMT+2 (France) : 16:35 – 17:25_ **:<br/> Session 4**
 
-* **GMT+1 (Scotland): 16:30+**, _GMT+2 (France) : 17:30+_
-* Washup and whisky (or wine)
+* **GMT+1 (Scotland): 16:30+**, _GMT+2 (France) : 17:30+_ **:<br/> Washup and whisky (or wine)**
 
 ### Saturday 1fr
 
