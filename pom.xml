@@ -65,44 +65,4 @@
             </plugin>
         </plugins>
     </build>
-
-    <profiles>
-
-        <profile>
-            <id>deploy</id>
-            <activation>
-                <activeByDefault>false</activeByDefault>
-                <property>
-                    <name>deploy</name>
-                </property>
-            </activation>
-            <build>
-                <plugins>
-                    <plugin>
-                        <groupId>com.github.github</groupId>
-                        <artifactId>site-maven-plugin</artifactId>
-                        <version>0.12</version>
-                        <!-- https://github.com/github/maven-plugins/issues/100 -->
-                        <configuration>
-                            <message>Creating site for ${project.version}</message>
-                            <!-- userName>parisjug-ci</userName -->
-                            <repositoryOwner>parisjug</repositoryOwner>
-                            <repositoryName>jchateau-site</repositoryName>
-                            <!-- path>site</path>-->
-                            <!--  -->
-                        </configuration>
-                        <executions>
-                            <execution>
-                                <goals>
-                                    <goal>site</goal>
-                                </goals>
-                                <phase>site</phase>
-                            </execution>
-                        </executions>
-                    </plugin>
-                </plugins>
-            </build>
-        </profile>
-
-    </profiles>
 </project>
