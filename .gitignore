@@ -28,3 +28,10 @@ hs_err_pid*
 *.iml
 *.ipr
 target
+.classpath
+jchateau.code-workspace
+.gitignore
+.settings
+.vscode/settings.json
+src/resources/*
+set.xml

@@ -1,11 +1,23 @@
 # Travel
 
-## No place like 127.0.0.1 
+<!-- MACRO{snippet|debug=false|ignoreDownloadError=false|verbatim=false|file=src/site/resources/fragments/breadcrum.snippet.html} -->
 
-Please, pardon me for _I love that joke_
+## By car
 
-[Accomodation](accommodation.html) | [Travel](travel.html) | [Schedule](schedule.html) | [Registration infos](registrationinfo.html)
- 
-[Registration infos](registrationinfo.html) | [Registration](https://www.eventbrite.com/e/jchateau-and-jalba-the-unofficial-unorganised-jauldalliance-tickets-191637963307) | [Team](the-team.html)
+* You are probably on your own on this one, but we'll try to organize car pull! The venue is about 2 hours by car from Paris, most on tooled motorways.
 
-Need any assistance? Please drop us an email at [team@jchateau.org](mailto:team@jchateau.org).
+## By train
+
+* the closest station is Blois, about 1h45 from the Paris Austerlitz station. It is about 10km from the hotel.
+
+  Taxis Fleurs de Lys :
+  Tél : +33 (0)6 45 71 36 24
+  €25 for the taxi journey from the Blois-Chambord train station to Cheverny or from Cheverny to Gare de Blois-Chambord train station;
+
+A bus is available from Blois station for €6 round-trip. For schedule : [click here](https://www.remi-centrevaldeloire.fr/wp-content/uploads/Remi_Flyer_Horaires_Chateau_BD.pdf).  
+
+## By plane
+
+* we will probably organise some car pull from Paris airport, otherwise, the closest airport is the [Tours airport](https://www.tours.aeroport.fr/), about 35mn by car, connected to several cities in Europe, including London.
+
+See the hotel on [Google Maps](https://goo.gl/maps/TNH8XL14ciDEovxd8). 

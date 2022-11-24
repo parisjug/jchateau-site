@@ -1,11 +1,6 @@
 # Schedule
 
-[Accomodation](accommodation.html) | [Travel](travel.html) | [Schedule](schedule.html) | [What is an unconference?](what-is-an-unconference.html)
-
-[Registration infos](registrationinfo.html) | [Registration](https://www.eventbrite.com/e/jchateau-and-jalba-the-unofficial-unorganised-jauldalliance-tickets-191637963307) | [Team](the-team.html)
-
-Need any assistance? Please drop us an email at [contact@jchateau.org](mailto:team@jchateau.org).
-
+<!-- MACRO{snippet|debug=false|ignoreDownloadError=false|verbatim=false|file=src/site/resources/fragments/breadcrum.snippet.html} -->
 
 ## Agenda and Speakers
 
@@ -13,36 +8,58 @@ What is the agenda? Precisely, there is no agenda in an unconference! Who are th
 
 ## Agenda
 
+###
+
+####
+
 Let us talk about the overall agenda of the event. What does a day look like?
 
-This should be define with our friends from [JAlba](https://jalba.scot/))
+JChateau starts Wednesday March the 11th at 5pm. If you arrive earlier than that, there will be someone to chat with you, don't worry.
+
+We will have a little Pot d'accueil before dinner. Expect fine local cuisine, local wines, in a friendly and warm ambiance.  
+
+An unconference day starts at 8h30, after the breakfast, with a session called the Marketplace. If you have a subject, something you want to talk about or something you want to share, this is the right time to write it down on a post-it and to pitch it in front of everybody.  
+
+At 9am the 50mn regular sessions start. We will have plenty of space for that, both indoors and outdoors if the weather permits. Of course we will have a coffee break. Everybody knows that this is where interesting things are happening!
+
+At 12:30: lunch break. Maybe you will feel like having a theme lunch with people you met in the morning? To continue the conversations you had with them?
+
+The afternoon is dedicated to social events. We are not completely fixed on those: what would you think about visiting the Château de Chambord? Or Cheverny castle, which has inpired Hergé for Tintin calse "moulinsart" ? Or maybe the Château de blois, built by Charles VIII? Or the more discrete Château de Chenonceaux, built by Diane de Poitiers? With more than 300 castles in the Valley of the Loire, the choice will be hard!
+
+After one of these, where you will have again plenty of time to chat with people about how Java is great, we will meet for dinner, with more fine cuisine and wines.
+
+The last unconference morning will be Saturday March the 14th. One more social event the Saturday afternoon and we will have a closing dinner Saturday night. Checking out the hotel will be Sunday 15th morning.
 
 Current plan are :
 
-### Wednesday 24th
+### Wednesday 15th
 
-* **GMT+1(Scotland): 16:00 – 17:00**, _GMT+2 (France) : 17:00 – 18:00_ **:<br/> Meet the tech, and the people! Float some ideas!**
+* **19:00 – 20:00** : **Meet the tech, and the people! Float some ideas!**
 
-### Thursday 25th
+### Thursday 16th
 
-* **GMT+1(Scotland): 14:00 – 14:25**, _GMT+2 (France) : 15:00 – 15:25_ **:<br/> Marketplace**
+* **08:30 – 09:00** : **Marketplace**
+* **09:00 – 09:45** : **Session 1**
+* **10:00 – 10:45** : **Session 2**
+* **11:00 – 11:45** : **Session 3**
+* **12:00 – 12:30** : **Debrief**
+* **Afternoor** :  _excusion to be define_
 
-* **GMT+1(Scotland): 14:35 – 15:25**, _GMT+2 (France) : 15:35 – 16:25_ **:<br/> Session 1**
+### Friday 17th
 
-* **GMT+1(Scotland): 15:35 – 16:25**, _GMT+2 (France) : 16:35 – 17:25_ **:<br/> Session 2**
+* **08:30 – 09:00** : **Marketplace**
+* **09:00 – 09:45** : **Session 1**
+* **10:00 – 10:45** : **Session 2**
+* **11:00 – 11:45** : **Session 3**
+* **12:00 – 12:30** : **Debrief**
+* **Afternoon**: _excusion to be define_
 
-* **GMT+1(Scotland): 16:30+**, _GMT+2 (France) : 17:30+_ **:<br/> Washup and whisky (or wine)**
+### Saturday 18th
 
-### Friday 26th
+* **08:30 – 09:00** : **Marketplace**
+* **09:00 – 09:45** : **Session 1**
+* **10:00 – 10:45** : **Session 2**
+* **11:00 – 11:45** : **Session 3**
+* **12:00 – 12:30** : **Debrief**
 
-* **GMT+1(Scotland): 14:00 – 14:25**, _GMT+2 (France) : 15:00 – 15:25_ **:<br/> Marketplace**
-
-* **GMT+1(Scotland): 14:35 – 15:25**, _GMT+2 (France) : 15:35 – 16:25_ **:<br/> Session 3**
-
-* **GMT+1(Scotland): 16:30 – 16:25**, _GMT+2 (France) : 16:35 – 17:25_ **:<br/> Session 4**
-
-* **GMT+1 (Scotland): 16:30+**, _GMT+2 (France) : 17:30+_ **:<br/> Washup and whisky (or wine)**
-
-### Saturday 27th
-
-* well everything is possible
+* **Afternoon** : _excusion to be define_
