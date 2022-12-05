@@ -4,7 +4,7 @@
 
 ## By car
 
-* You are probably on your own on this one, but we'll try to organize car pull! The venue is about 2 hours by car from Paris, most on tooled motorways.
+* You are probably on your own on this one, but we'll try to organize car pull! The venue is about 2 hours by car from Paris, most on tooled motorways. Several people from the Paris region will be traveling by car with available seats, so if you need assistance, please contact us: [team@jchateau.org](mailto:team@jchateau.org).
 
 ## By train
 

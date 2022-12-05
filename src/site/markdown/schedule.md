@@ -34,7 +34,7 @@ Current plan are :
 
 ### Wednesday 15th
 
-* **19:00 – 20:00** : **Meet the tech, and the people! Float some ideas!**
+* **19:00 – 20:00** : **Meet the tech, and the people! Float some ideas! Have diner!**
 
 ### Thursday 16th
 
@@ -43,7 +43,7 @@ Current plan are :
 * **10:00 – 10:45** : **Session 2**
 * **11:00 – 11:45** : **Session 3**
 * **12:00 – 12:30** : **Debrief**
-* **Afternoor** :  _excusion to be define_
+* **Afternoon** :  _excursion to be define, probably Cheverny?_
 
 ### Friday 17th
 
@@ -52,7 +52,7 @@ Current plan are :
 * **10:00 – 10:45** : **Session 2**
 * **11:00 – 11:45** : **Session 3**
 * **12:00 – 12:30** : **Debrief**
-* **Afternoon**: _excusion to be define_
+* **Afternoon**: _excursion to be define, probably Chambord?_
 
 ### Saturday 18th
 
@@ -62,4 +62,4 @@ Current plan are :
 * **11:00 – 11:45** : **Session 3**
 * **12:00 – 12:30** : **Debrief**
 
-* **Afternoon** : _excusion to be define_
+* **Afternoon** : _excursion to be define, probably wine cellar visit?_
