@@ -4,8 +4,7 @@
 
 We plan to propose several visits to discover the beautiful region "Châteaux de la Loire". We are still in the process of scheduling everything, here is what we have in mind. Our friend [Denys](https://twitter.com/denis_makogon) made a beauitiful video of the region. 
 
-<iframe  width="640" height="480" src="https://youtu.be/jaWm4KKo8Sg" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
+[![Vallée de la Loire](http://img.youtube.com/vi/jaWm4KKo8Sg/hqdefault.jpg)](https://youtu.be/jaWm4KKo8Sg)
 
 ## Some of our current thought
 
