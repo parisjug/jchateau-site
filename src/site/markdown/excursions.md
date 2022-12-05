@@ -2,9 +2,11 @@
 
 <!-- MACRO{snippet|debug=false|ignoreDownloadError=false|verbatim=false|file=src/site/resources/fragments/breadcrum.snippet.html} -->
 
-We are going to propose several visits to discover the beautiful region "Châteaux de la Loire". We still need some time 
+We plan to propose several visits to discover the beautiful region "Châteaux de la Loire". We are still in the process of scheduling everything, here is what we have in mind. Our friend [Denys](https://twitter.com/denis_makogon) made a beauitiful video of the region. 
 
-## some of our current thought
+![Aerial views of the Châteaux de la Loire](https://youtu.be/jaWm4KKo8Sg)
+
+## Some of our current thought
 
 * [Château de Cheverny](https://www.chateau-cheverny.fr/)
 
