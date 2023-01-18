@@ -14,7 +14,7 @@
   Tél : +33 (0)6 45 71 36 24
   €25 for the taxi journey from the Blois-Chambord train station to Cheverny or from Cheverny to Gare de Blois-Chambord train station;
 
-A bus is available from Blois station for €6 round-trip. For schedule : [click here](https://www.remi-centrevaldeloire.fr/wp-content/uploads/Remi_Flyer_Horaires_Chateau_BD.pdf).  
+A bus is available from Blois station for €6 round-trip. For schedule : [click here](https://www.remi-centrevaldeloire.fr/wp-content/uploads/Horaires-vers-Chateau-Cheverny.pdf).  
 
 ## By plane
 
