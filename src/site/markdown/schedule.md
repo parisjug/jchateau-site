@@ -36,7 +36,7 @@ Current plan are :
 
 * **19:00 – 20:00** : **Meet the tech, and the people! Float some ideas! Have diner!**
 
-### Thursday 06th
+### Thursday 07th
 
 * **08:30 – 09:00** : **Marketplace**
 * **09:00 – 09:45** : **Session 1**
