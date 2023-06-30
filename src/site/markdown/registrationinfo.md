@@ -10,4 +10,4 @@ JChateau is a family friendly event, if you plan to come with your family, or yo
 
 The hotel has special rooms for people with disabilities, please contact us if you need any specific assistance. 
 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/bjpc/evenements/jchateau-2022-2/widget" style="width: 100%; height: 750px; border: none;"></iframe>
+Not Yet,  but feel free to contact us.

@@ -32,11 +32,11 @@ The last unconference morning will be Saturday March the 18th. One more social e
 
 Current plan are :
 
-### Wednesday 15th
+### Wednesday 06th
 
 * **19:00 – 20:00** : **Meet the tech, and the people! Float some ideas! Have diner!**
 
-### Thursday 16th
+### Thursday 06th
 
 * **08:30 – 09:00** : **Marketplace**
 * **09:00 – 09:45** : **Session 1**
@@ -45,7 +45,7 @@ Current plan are :
 * **12:00 – 12:30** : **Debrief**
 * **Afternoon** :  _excursion to be define, probably Cheverny?_
 
-### Friday 17th
+### Friday 08th
 
 * **08:30 – 09:00** : **Marketplace**
 * **09:00 – 09:45** : **Session 1**
@@ -54,7 +54,7 @@ Current plan are :
 * **12:00 – 12:30** : **Debrief**
 * **Afternoon**: _excursion to be define, probably Chambord?_
 
-### Saturday 18th
+### Saturday 09th
 
 * **08:30 – 09:00** : **Marketplace**
 * **09:00 – 09:45** : **Session 1**
