@@ -14,9 +14,9 @@ What is the agenda? Precisely, there is no agenda in an unconference! Who are th
 
 Let us talk about the overall agenda of the event. What does a day look like?
 
-JChateau starts Wednesday March the 15th at 5pm. If you arrive earlier than that, there will be someone to chat with you, don't worry.
+JChateau starts Wednesday March the 6th at 7pm. If you arrive earlier than that, there will be someone to chat with you, don't worry.
 
-We will have a little Pot d'accueil before dinner. Expect fine local cuisine, local wines, in a friendly and warm ambiance.  
+We will have a little *Pot d'accueil* before dinner. Expect fine local cuisine, local wines, in a friendly and warm ambiance.  
 
 An unconference day starts at 8h30, after the breakfast, with a session called the Marketplace. If you have a subject, something you want to talk about or something you want to share, this is the right time to write it down on a post-it and to pitch it in front of everybody.  
 
@@ -24,11 +24,11 @@ At 9am the 50mn regular sessions start. We will have plenty of space for that, b
 
 At 12:30: lunch break. Maybe you will feel like having a theme lunch with people you met in the morning? To continue the conversations you had with them?
 
-The afternoon is dedicated to social events. We are not completely fixed on those: what would you think about visiting the Château de Chambord? Or Cheverny castle, which has inpired Hergé for Tintin calse "moulinsart" ? Or maybe the Château de blois, built by Charles VIII? Or the more discrete Château de Chenonceaux, built by Diane de Poitiers? With more than 300 castles in the Valley of the Loire, the choice will be hard!
+The afternoon is dedicated to social events. We are not completely fixed on those: what would you think about visiting the Château de Chambord? Or Cheverny castle, which has inspired Hergé for Tintin called "Moulinsart" ? Or maybe the Château de Blois, built by Charles VIII? Or the more discrete Château de Chenonceaux, built by Diane de Poitiers? With more than 300 castles in the Valley of the Loire, the choice will be hard!
 
 After one of these, where you will have again plenty of time to chat with people about how Java is great, we will meet for dinner, with more fine cuisine and wines.
 
-The last unconference morning will be Saturday March the 18th. One more social event the Saturday afternoon and we will have a closing dinner Saturday night. Checking out the hotel will be Sunday 19th morning.
+The last unconference morning will be Saturday March the 9th. One more social event the Saturday afternoon and we will have a closing dinner Saturday night. Checking out the hotel will be Sunday 10th morning.
 
 Current plan are :
 
