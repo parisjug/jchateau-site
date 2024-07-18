@@ -35,3 +35,5 @@ jchateau.code-workspace
 .vscode/settings.json
 src/resources/*
 set.xml
+.DS_Store
+.project
