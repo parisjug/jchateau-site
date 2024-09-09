@@ -1,6 +1,14 @@
-# What is JChateau?
+
 
 <!-- MACRO{snippet|debug=false|ignoreDownloadError=false|verbatim=false|file=src/site/resources/fragments/breadcrum.snippet.html} -->
+
+# Registration is open!
+
+The number of places is limited, so secure your seat now!
+
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/bjpc/evenements/jchateau-2025/widget" style="width: 100%; height: 750px; border: none;"></iframe>
+
+# What is JChateau?
 
 ## First answer: an unconference
 
