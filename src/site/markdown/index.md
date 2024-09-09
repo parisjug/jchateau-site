@@ -4,9 +4,7 @@
 
 # Registration is open!
 
-The number of places is limited, so secure your seat now!
-
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/bjpc/evenements/jchateau-2025/widget" style="width: 100%; height: 750px; border: none;"></iframe>
+See at the bottom of this page. 
 
 # What is JChateau?
 
@@ -29,3 +27,10 @@ JChateau® is about sharing three to four days in a venue where everybody can di
 ## JChateau is not the first one
 
 JChateau® is fully inspired by [JCrete](http://www.jcrete.org/), [JAlba](https://jalba.scot/) and [SoCraTes](https://socrates-fr.github.io/). Thanks to all the disorganizers of these events for their inspiration and encouragements. Without your work, JChateau wouldn't have been created!
+
+## Regiser now!
+
+The number of places is limited, so secure your seat now!
+
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/bjpc/evenements/jchateau-2025/widget" style="width: 100%; height: 750px; border: none;"></iframe>
+
