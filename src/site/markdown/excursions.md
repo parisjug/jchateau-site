@@ -24,7 +24,7 @@ We already visited the Château de Chambord for the first edition in 2019. It wa
 
 The whole region is also famous for two other things: goat cheese and wine, both red and wine. Visiting a cellar and having some local wine tasting is definitely something we plan to do (in the order: Crottin de Chavignol, Pouligny Saint Pierre, Sainte Maure, Selles sur Cher, and Valençay. One day I'll understand how captions are working in markdown). 
 
-![crotin-de-chavignol_red.jpg](images/crottin-de-chavignol_red.jpg) ![pouligny-saint-pierre_red.jpg](images/pouligny-saint-pierre_red.jpg)
+![crottin-de-chavignol_red.jpg](images/crottin-de-chavignol_red.jpg) ![pouligny-saint-pierre_red.jpg](images/pouligny-saint-pierre_red.jpg)
 
 ![sainte-maure_red.jpg](images/sainte-maure_red.jpg) ![selles-sur-cher_red.jpg](images/selles-sur-cher_red.jpg)
 
