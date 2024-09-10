@@ -2,11 +2,11 @@
 
 <!-- MACRO{snippet|debug=false|ignoreDownloadError=false|verbatim=false|file=src/site/resources/fragments/breadcrum.snippet.html} -->
 
-you can check the exact location of the hotel on [Google Maps](https://goo.gl/maps/TNH8XL14ciDEovxd8).
+You can check the exact location of the hotel on [Google Maps](https://goo.gl/maps/TNH8XL14ciDEovxd8).
 
 ## Car pooling
 
-Several people are coming by car from Paris, and have available seats. Car pooling worked great the previous years: no one was lost, and it's a great opportunity to start the conversations before the start of the unconference. It's very convenient, especially if you are coming from abroad. 
+Some participants are coming by car from Paris, and have available seats. Carpooling worked great the previous years: no one was lost, and it's a great opportunity to start the conversations before the start of the unconference. It's very convenient, especially if you are coming from abroad. 
 
 We share the available cars and seats a few days before the start of the event, so do not forget to check the messages we send you.   
 
