@@ -8,11 +8,11 @@ What is the agenda? Precisely, there is no pre established agenda in an unconfer
 
 It doens't mean that we don't have great content. These are the agenda of the previous editions. 
 
-![JChateau 2024 Agenda](images/2024_JChateau-agenda.png)
+![JChateau 2024 Agenda](images/agenda/2024_JChateau-agenda.png)
 
 JChateau 2024 Agenda
 
-![JChateau 2023 Agenda](images/2023_JChateau-agenda.png)
+![JChateau 2023 Agenda](images/agenda/2023_JChateau-agenda.png)
 
 JChateau 2023 Agenda
 
