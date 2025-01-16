@@ -16,4 +16,4 @@ Sorry but all the rooms available at the JChateau hotel are booked. If you absol
 
 You can also register on our wait list, so that we can inform you if any spot becomes available.
 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/bjpc/evenements/jchateau-2025-wait-list" style="width: 100%; height: 750px; border: none;"></iframe>
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/bjpc/evenements/jchateau-2025-wait-list/widget" style="width: 100%; height: 750px; border: none;"></iframe>
