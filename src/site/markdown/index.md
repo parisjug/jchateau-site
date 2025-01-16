@@ -30,7 +30,9 @@ JChateau® is fully inspired by [JCrete](http://www.jcrete.org/), [JAlba](https:
 
 ## Regiser now!
 
-The number of places is limited, so secure your seat now!
+Sorry but all the rooms available at the JChateau hotel are booked. If you absolutely want to come, you can still register, but only with lunches and dinners, meaning that you will need to find another place to stay for the night.
 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/bjpc/evenements/jchateau-2025/widget" style="width: 100%; height: 750px; border: none;"></iframe>
+You can also register on our wait list, so that we can inform you if any spot becomes available.
+
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/bjpc/evenements/jchateau-2025-wait-list" style="width: 100%; height: 750px; border: none;"></iframe>
 
