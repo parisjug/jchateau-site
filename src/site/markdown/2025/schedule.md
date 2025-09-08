@@ -6,11 +6,7 @@
 
 What is the agenda? Precisely, there is no pre established agenda in an unconference! Who are the speakers? Well, if you feel like it, you will be a speaker!
 
-It doens't mean that we don't have great content. These are the agendas of the previous editions. 
-
-![JChateau 2025 Agenda](images/agenda/2025_JChateau-agenda.png)
-
-JChateau 2025 Agenda
+It doens't mean that we don't have great content. These are the agenda of the previous editions. 
 
 ![JChateau 2024 Agenda](images/agenda/2024_JChateau-agenda.png)
 

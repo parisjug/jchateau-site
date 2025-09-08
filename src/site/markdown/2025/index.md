@@ -10,7 +10,7 @@ See at the bottom of this page.
 
 ## First answer: an unconference
 
-JChateau® is an **Unconference** organized in France in the iconic area of the Châteaux of the Loire Valley, designated as a World Heritage Site by UNESCO in 2000. The people behind this event are the same that have been organizing the Paris Java User Group meet-ups for about 15 years.
+JChateau® is an **Unconference** organized in France in the iconic area of the Châteaux of the Loire Valley, designated as a World Heritage Site by UNESCO in 2000. The people behind this event are the same that have been organizing the Paris Java User Group meet-ups for about 14 years.
 
 ## Second answer: a non-profit event
 
@@ -30,5 +30,9 @@ JChateau® is fully inspired by [JCrete](http://www.jcrete.org/), [JAlba](https:
 
 ## Regiser now!
 
+Sorry but all the rooms available at the JChateau hotel are booked. If you absolutely want to come, you can still register, but only with lunches and dinners, meaning that you will need to find another place to stay for the night.
 
+You can also register on our wait list, so that we can inform you if any spot becomes available.
+
+<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/bjpc/evenements/jchateau-2025-wait-list/widget" style="width: 100%; height: 750px; border: none;"></iframe>
 

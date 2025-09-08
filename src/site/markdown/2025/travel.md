@@ -4,11 +4,7 @@
 
 You can check the exact location of the hotel on [Google Maps](https://goo.gl/maps/TNH8XL14ciDEovxd8).
 
-## Coming by plane through Paris
-
-If you plan to come by plane, and land in Paris CDG or Paris ORY, the best solution is to use our carpooling system to reach Cour-Cheverny. Not only you will just have to seat in car driven by someone who knows how french motorways are working, but you will be able to start the conversations even before the start of the unconference. 
-
-## Carpooling
+## Car pooling
 
 Some participants are coming by car from Paris, and have available seats. Carpooling worked great the previous years: no one was lost, and it's a great opportunity to start the conversations before the start of the unconference. It's very convenient, especially if you are coming from abroad. 
 
