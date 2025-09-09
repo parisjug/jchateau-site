@@ -24,7 +24,7 @@ The Château de Chambord is the biggest château in Europe. Built between 1519 a
 
 The Clos Lucé is the château where Leonardo spent the last three years of his life. He worked on many things there, including the Mona Lisa, now in Le Louvre. 
 
-![Clos Lucé](images/09_Clos-lucé_red.jpg)
+![Clos Lucé](images/09_Clos-luce_red.jpg)
 
 
 * [Château de Chenonceau](https://www.chenonceau.com/)

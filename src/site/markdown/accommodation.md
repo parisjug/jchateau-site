@@ -21,3 +21,7 @@ Discussion can also take place in more relaxing places than regular meeting room
 ![Lounge](images/06_lounge_red.jpg)
 
 ![Lounge](images/05_lounge_red.jpg)
+
+You can register now!
+
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/bjpc/evenements/jchateau-2026/widget" style="width: 100%; border: none;" onload="window.addEventListener( 'message', e => { const dataHeight = e.data.height; const haWidgetElement = document.getElementById('haWidget'); haWidgetElement.height = dataHeight + 'px'; } )" ></iframe>
