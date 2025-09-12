@@ -30,5 +30,5 @@ JChateau® is fully inspired by [JCrete](http://www.jcrete.org/), [JAlba](https:
 
 ## Regiser now!
 
-
+<iframe id="haWidget" allowtransparency="true" src="https://www.helloasso.com/associations/bjpc/evenements/jchateau-2026/widget" style="width: 100%; border: none;" onload="window.addEventListener( 'message', e => { const dataHeight = e.data.height; const haWidgetElement = document.getElementById('haWidget'); haWidgetElement.height = dataHeight + 'px'; } )" ></iframe>
 
