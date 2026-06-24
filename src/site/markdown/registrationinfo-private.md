@@ -16,4 +16,4 @@ All the rooms available at the JChateau hotel are currently booked. So unless yo
 
 You can still register with limited accommodation [here](registrationinfo.md).
 
-<iframe id="haWidget" allowtransparency="true" scrolling="auto" src="https://www.helloasso.com/associations/bjpc/evenements/jchateau-2025-private/widget" style="width: 100%; height: 750px; border: none;"></iframe>
+soon

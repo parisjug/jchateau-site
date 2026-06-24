@@ -4,10 +4,10 @@
 
 ## Registration web site
 
-You can register now for JChateau! The number of places is very limited, so do not wait: register today! JChateau 2025 was sold out, and the last tickets went away in the first days of January. 
+You can register now for JChateau! The number of places is very limited, so do not wait: register today! JChateau 2025 and 2026 was sold out, and the last tickets went away in the first days of January. 
 
 JChateau is a family friendly event, if you plan to come with your family, or your friends, and need special accommodation, please contact us so that we can arrange things.
 
 The hotel has special rooms for people with disabilities, please contact us if you need any specific assistance.
 
-<a href="https://www.helloasso.com/associations/bjpc/evenements/jchateau-2026">You can register now! on hello asso web site</a>
+Soon
